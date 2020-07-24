@@ -1,7 +1,5 @@
-Looking for work
+- fullstack
 
-- remote friendly
-- fullstack preferred 
-  - previous stack was node / react, but not picky.
+- want to learn ml
 
-- latest feature completed: virtual (video) medical appointment system
+- wishes I was original enough to make an interesting `README`.
